@@ -1,3 +1,3 @@
 # clone-tabnews
 
-Projeto de implementação e aprendizado do tabnews, material do curso.dev
+Projeto de implementação do tabnews, material do curso.dev
